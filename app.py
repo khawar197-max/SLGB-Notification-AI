@@ -737,11 +737,4 @@ st.caption(
     "SLGB AI Assistant • Built with Streamlit"
 )
 
-### 2. `requirements.txt`
-
-text
-streamlit
-requests
-PyMuPDF
-groq
 
