@@ -736,13 +736,12 @@ with st.expander("ℹ️ About SLGB AI Assistant"):
 st.caption(
     "SLGB AI Assistant • Built with Streamlit"
 )
-```
 
 ### 2. `requirements.txt`
 
-```text
+text
 streamlit
 requests
 PyMuPDF
 groq
-```
+
